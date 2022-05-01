@@ -1,0 +1,70 @@
+F:\C# program\Restaurant Management System Project\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+F:\C# program\Restaurant Management System Project\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+F:\C# program\Restaurant Management System Project\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+F:\C# program\Restaurant Management System Project\Restaurant Management System\bin\Debug\DataAccess.dll
+F:\C# program\Restaurant Management System Project\Restaurant Management System\bin\Debug\DataAccess.pdb
+F:\C# program\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.csprojAssemblyReference.cache
+F:\C# program\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdminForm.resources
+F:\C# program\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.LogInForm.resources
+F:\C# program\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+F:\C# program\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.ResetUserNamePasswordForm.resources
+F:\C# program\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.UserRegistrationForm.resources
+F:\C# program\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.StaffForm.resources
+F:\C# program\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.cache
+F:\C# program\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CoreCompileInputs.cache
+F:\C# program\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CopyComplete
+F:\C# program\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+F:\C# program\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+F:\C# program\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.PoswindowForm.resources
+F:\C# program\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.CustomerForm.resources
+F:\C# program\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.InventoryForm.resources
+F:\C# program\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.PurchaseForm.resources
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\bin\Debug\DataAccess.dll
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\bin\Debug\DataAccess.pdb
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.csprojAssemblyReference.cache
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.InventoryForm.resources
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdminForm.resources
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.CustomerForm.resources
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.LogInForm.resources
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.PoswindowForm.resources
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.PurchaseForm.resources
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.ResetUserNamePasswordForm.resources
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.UserRegistrationForm.resources
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.StaffForm.resources
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.cache
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CoreCompileInputs.cache
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CopyComplete
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.CustoForm.resources
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.FoodForm.resources
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.EmployeeForm.resources
+C:\Users\PROTTUSH\Downloads\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.SalesreportForm.resources
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\bin\Debug\DataAccess.dll
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\bin\Debug\DataAccess.pdb
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.CustoForm.resources
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.EmployeeForm.resources
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.FoodForm.resources
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.InventoryForm.resources
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdminForm.resources
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.CustomerForm.resources
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.LogInForm.resources
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.PoswindowForm.resources
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.PurchaseForm.resources
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.ResetUserNamePasswordForm.resources
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.UserRegistrationForm.resources
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant_Management_System.StaffForm.resources
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CopyComplete
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\ahmed\OneDrive\Desktop\Restaurant Management System Project\Restaurant Management System Project\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
