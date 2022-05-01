@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C35C38A8-B71E-4B39-B962-73445F08D1F9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataAccess</RootNamespace>
+    <AssemblyName>DataAccess</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Database\CustoInfo.cs" />
+    <Compile Include="Database\CustomerInformation.cs" />
+    <Compile Include="Database\DataBaseConnection.cs" />
+    <Compile Include="Database\EmployeeInformation.cs" />
+    <Compile Include="Database\FoodItemInformation.cs" />
+    <Compile Include="Database\InventoryInformation.cs" />
+    <Compile Include="Database\LoginInformation.cs" />
+    <Compile Include="Database\OperationFood.cs" />
+    <Compile Include="Database\OperationsCustomer.cs" />
+    <Compile Include="Database\OperationsStaff.cs" />
+    <Compile Include="Database\PoswindowInformation.cs" />
+    <Compile Include="Database\PurchaseInformation.cs" />
+    <Compile Include="Database\RegistrationInformation.cs" />
+    <Compile Include="Database\ResetUserNamePasswordInformation.cs" />
+    <Compile Include="Entities\Cus.cs" />
+    <Compile Include="Entities\Customer.cs" />
+    <Compile Include="Entities\Employee.cs" />
+    <Compile Include="Entities\FoodItem.cs" />
+    <Compile Include="Entities\Inventory.cs" />
+    <Compile Include="Entities\Login.cs" />
+    <Compile Include="Entities\ManagerCustomer.cs" />
+    <Compile Include="Entities\ManagerFood.cs" />
+    <Compile Include="Entities\ManagerStaff.cs" />
+    <Compile Include="Entities\PosWindow.cs" />
+    <Compile Include="Entities\Purchase.cs" />
+    <Compile Include="Entities\ResetUserNamePassword.cs" />
+    <Compile Include="Entities\UserRegistration.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Icons\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
